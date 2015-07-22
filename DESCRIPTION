@@ -1,0 +1,13 @@
+Package: toyPackage
+Type: Package
+Title: Plots a Circle of Radius r
+Version: 0.1
+Date: 2015-07-20
+Author: Lianne Sheppard
+Maintainer: Lianne Sheppard <sheppard@uw.edu>
+Description: Plots a circle of radius r.
+  Second line of description.  Indented -- necessary??
+License: MIT + file LICENSE
+LazyData: TRUE
+Suggests: knitr
+VignetteBuilder: knitr
